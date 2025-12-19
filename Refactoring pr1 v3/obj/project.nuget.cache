@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "A8KX9z+vrA8=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ledem\\Desktop\\Refactoring pr1 v3\\RPKApp3.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ledem\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.11\\microsoft.netcore.app.ref.8.0.11.nupkg.sha512",
+    "C:\\Users\\ledem\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.11\\microsoft.windowsdesktop.app.ref.8.0.11.nupkg.sha512",
+    "C:\\Users\\ledem\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.11\\microsoft.aspnetcore.app.ref.8.0.11.nupkg.sha512",
+    "C:\\Users\\ledem\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\8.0.11\\microsoft.netcore.app.host.win-x64.8.0.11.nupkg.sha512"
+  ],
+  "logs": []
+}
